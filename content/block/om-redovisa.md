@@ -1,3 +1,3 @@
 #### Redovisa på GitHub
 
-Skriv något kort om ditt redovisa-repo och länka till [repot för me/redovisa på GitHub](XXX).
+Det här är mina redovisningar. [repot för me/redovisa på GitHub](https://github.com/jecr18/Design/tree/master/content/redovisning).

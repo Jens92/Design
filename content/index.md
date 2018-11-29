@@ -3,7 +3,7 @@ title: "Min me sida"
 ---
 Min me-sida i kursen design
 =========================
-![Bild på mig](me.jpg)
+[FIGURE src="img/me.jpg?w500" class="right" caption="Bild på mig"]
 Hej jag heter Jens Carlsson, jag är 26 år och bor i Lule. Har ett stort intresse för att lära mig nya saker, speciellt när det kommer till programmering.
 
 Till vardags jobbar jag för tillfället som kock inom måltidsservice (skolkök), vilket är hyffsat roligt men känner att jag vill byta bransch till något inom data.
