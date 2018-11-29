@@ -1,25 +1,17 @@
 ---
-title: "Min fina titel"
+title: "Min me sida"
 ---
 Min me-sida i kursen design
 =========================
+![Bild på mig](me.jpg)
+Hej jag heter Jens Carlsson, jag är 26 år och bor i Lule. Har ett stort intresse för att lära mig nya saker, speciellt när det kommer till programmering.
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+Till vardags jobbar jag för tillfället som kock inom måltidsservice (skolkök), vilket är hyffsat roligt men känner att jag vill byta bransch till något inom data.
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+På fritiden brukar jag för det mesta när vädret tillåter åka iväg och fiska i till exempel Jokkfall, vilket är ett av dom bästa laxfiske platserna här uppe i norr.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Några andra platser jag brukar åka till som är väldigt fina är Råneälv, där finns det några fina sträckor upp mot Niemisel, även Karlsvik/Gäddvik här i Lule är väldigt fina fiskeplatser så länge dom inte släpper på för mycket vatten från kraftverket uppe i Boden.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+På vintern är jag för det mest bara inomhus då jag umgås med vänner och bekanta då kylan är bland det värsta jag vet. Det kan dock vara roligt på våren då det börjar vara lite varmare att åka iväg och pimla eller köra skoter till någon fin grillplats.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Något jag även börjat med efter många år är reptiler, speciellt ormar och fågelspindlar, vilket är både lärande och roligt.
