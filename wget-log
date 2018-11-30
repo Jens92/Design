@@ -1,0 +1,11 @@
+--2018-11-30 00:44:06--  https://www.google.se/url?sa=i
+Resolving www.google.se (www.google.se)... 172.217.20.35, 2a00:1450:400f:806::2003
+Connecting to www.google.se (www.google.se)|172.217.20.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘url@sa=i’
+
+url@sa=i                [<=>                 ]       0  --.-KB/s               url@sa=i                [ <=>                ]   1.30K  --.-KB/s    in 0s      
+
+2018-11-30 00:44:06 (3.06 MB/s) - ‘url@sa=i’ saved [1327]
+
