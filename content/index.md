@@ -12,7 +12,7 @@ views:
 ---
 Min me-sida i kursen design
 =========================
-[FIGURE src="img/me.jpg?w500" class="right" caption="Bild på mig"]
+<img src="img/me.jpg" class="me" alt="Bild på Jens Carlsson">
 Hej jag heter Jens Carlsson, jag är 26 år och bor i Lule. Har ett stort intresse för att lära mig nya saker, speciellt när det kommer till programmering.
 
 Till vardags jobbar jag för tillfället som kock inom måltidsservice (skolkök), vilket är hyffsat roligt men känner att jag vill byta bransch till något inom data.
@@ -24,3 +24,5 @@ Några andra platser jag brukar åka till som är väldigt fina är Råneälv, d
 På vintern är jag för det mest bara inomhus då jag umgås med vänner och bekanta då kylan är bland det värsta jag vet. Det kan dock vara roligt på våren då det börjar vara lite varmare att åka iväg och pimla eller köra skoter till någon fin grillplats.
 
 Något jag även börjat med efter många år är reptiler, speciellt ormar och fågelspindlar, vilket är både lärande och roligt.
+
+Dock är det väldigt mycket att lära sig om hur varje specifikt djur ska ha det i terrariet, med tanke på att vissa lever i torrare klimat och vissa lever i regnskogsklimat eller något där emellan.

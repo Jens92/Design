@@ -38,7 +38,23 @@ body {
     float: left;
 }
 
-/*.bylineimg {
-    width: 50px;
-    height: 30px;
+.me1 {
+    height: 100px;
+    width: 60px;
+    float: auto;
+}
+
+.byline {
+    border: 1px solid black;
+
+}
+.byline p {
+    float: right;
+    margin-left: -50px;
+}
+
+.me {
+    height: 240px;
+    width: 150px;
+    float: right;
 }
