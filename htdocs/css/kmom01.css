@@ -20,7 +20,7 @@ html {
 }
 
 body {
-    background-color: #fff;
+    background-color: grey;
 }
 
 .wrap-all {
@@ -46,15 +46,18 @@ body {
 
 .byline {
     border: 1px solid black;
+    margin: 5px;
 
 }
 .byline p {
-    float: right;
-    margin-left: -50px;
 }
 
 .me {
     height: 240px;
-    width: 150px;
+    width: 180px;
     float: right;
+}
+
+article {
+    margin: 10px;
 }
